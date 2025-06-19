@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="MiA2"
+           fetch="https://github.com/m01001101-01010110/"           
+           review="..."
+           revision="lineage-20.0" />
+
+  <!-- jasmine_sprout device custom additions -->
+  <project path="vendor/xiaomi/sdm660-common" name="m01001101-01010110/proprietary_vendor_xiaomi_sdm660-common" />
+  <project path="vendor/xiaomi/wayne-common" name="m01001101-01010110/proprietary_vendor_xiaomi_wayne-common" />
+  <project path="vendor/xiaomi/jasmine_sprout" name="m01001101-01010110/proprietary_vendor_xiaomi_jasmine_sprout" />
+
+  </manifest>
